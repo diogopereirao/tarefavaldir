@@ -1,0 +1,8 @@
+.tarefa{
+    position: fixed;
+    margin-left: 30%;
+    font-size: 50px;
+}
+.input:value{
+    font-size: 40px;
+}
